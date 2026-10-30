@@ -54,13 +54,13 @@ Staff Features
 🔄 How It Works
 
 Select Department
-       ↓
+       
    Book Token
-       ↓
+       
   Track Queue
-       ↓
+       
   Wait for Turn
-       ↓
+       
 Doctor Consultation
 
 📌 Website Modules
@@ -83,12 +83,12 @@ Staff Portal| Queue management
 
 📂 Project Structure
 
-MediQue/
-│
-├── index.html
-├── styles.css
-├── app.js
-└── README.md
+MediQue
+
+ index.html
+ styles.css
+ app.js
+ README.md
 
 ⚙️ Getting Started
 
