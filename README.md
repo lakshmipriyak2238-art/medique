@@ -1,6 +1,6 @@
 🏥 MediQue
 
-Turning Hospital Waiting into Organized Care.
+"Turning Hospital Waiting into Organized Care."
 
 «What if waiting at a hospital didn't have to be confusing?»
 
@@ -54,13 +54,13 @@ Staff Features
 🔄 How It Works
 
 Select Department
-       
+       |
    Book Token
-       
+       |
   Track Queue
-       
+       |
   Wait for Turn
-       
+       |
 Doctor Consultation
 
 📌 Website Modules
@@ -86,8 +86,11 @@ Staff Portal| Queue management
 MediQue
 
  index.html
+ 
  styles.css
+ 
  app.js
+ 
  README.md
 
 ⚙️ Getting Started
